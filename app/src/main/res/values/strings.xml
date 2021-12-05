@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ReplaceCyrillicNames</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Замяна на имена</string>
+    <string name="second_fragment_label">Добавяне на имена</string>
+    <string name="next">Добави Име</string>
+    <string name="add_button">Добави</string>
+    <string name="replace_button">Замести</string>
+    <string name="enter_cyrillic_name">Моля, въведете оригиналното име на кирилица:</string>
+    <string name="enter_latin_name">Моля, въведете еквивалента на името:</string>
+    <string name="title_user_enter_text">Моля, въведете текста, който искате да се промени:</string>
+    <string name="title_changed_text">Това е промененият текст:</string>
+    <string name="database_text">База от знания:</string>
+    <string name="not_valid_names">Имената трябва да започват с главна буква и да са на кирилица!</string>
+    <string name="ok_button">OK</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
